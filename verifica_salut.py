@@ -1,4 +1,4 @@
-date_asteptate = "Salut din jenkinsdemo si Python-eroare"
+date_asteptate = "Salut din jenkinsdemo si Python"
 date_primite = input()
 print("Verifica Salut: primit:", date_primite)
 try: 
